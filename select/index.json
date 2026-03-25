@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ダレモ",
   "base_artist": "トゲナシトゲアリ",
-  "createdAt": "2026-03-24T14:29:12.669585Z",
+  "createdAt": "2026-03-25T09:14:44.019532Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,7 +27,7 @@
       "artist": "トゲナシトゲアリ",
       "has_synced": false,
       "path": "select/localdb_01_ダレモ_トゲナシトゲアリ.txt",
-      "repo_name": "egoue2V-TAk"
+      "repo_name": "h2IWshbwHw8"
     },
     {
       "id": "localdb_2",
@@ -36,7 +36,7 @@
       "artist": "トゲナシトゲアリ",
       "has_synced": false,
       "path": "select/localdb_02_ダレモ_トゲナシトゲアリ.txt",
-      "repo_name": "aJxc71vHsnY"
+      "repo_name": "egoue2V-TAk"
     },
     {
       "id": "localdb_3",
@@ -45,7 +45,7 @@
       "artist": "トゲナシトゲアリ",
       "has_synced": false,
       "path": "select/localdb_03_ダレモ_トゲナシトゲアリ.txt",
-      "repo_name": "h2IWshbwHw8"
+      "repo_name": "aJxc71vHsnY"
     }
   ]
 }
